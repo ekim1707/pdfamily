@@ -1,3 +1,3 @@
-createdb ideadb
-psql -f schema.sql ideadb
-psql -f seed.sql ideadb
+createdb pdfamily
+psql -f schema.sql pdfamily
+psql -f seed.sql pdfamily
